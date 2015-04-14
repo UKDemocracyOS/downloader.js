@@ -12,7 +12,7 @@
   "repository": "component/downloader.js",
   "dependencies": {
     "debug": "*",
-    "component-consoler": "^2.0.0",
+    "component-consoler": "https://github.com/UKDemocracyOS/console.js.git",
     "component-remotes": "^1.1.1",
     "generator-supported": "~0.0.1",
     "chanel": "^2.0.1",
